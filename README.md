@@ -1,7 +1,3 @@
-# Sorry
-
----
-
 <div align="center">
 
 # 🙏🏼 [Sorry](https://github.com/Anlominus/Anlominus/blob/main/Sorry.md) 🙏🏼
