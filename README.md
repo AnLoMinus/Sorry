@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="/assets/futuristic.css">
+
+<div class="container">
 <div align="center">
 
 # 🙏🏼 [סליחה](https://github.com/Anlominus/Anlominus/blob/main/Sorry.md) 🙏🏼
@@ -536,3 +539,5 @@
 ---
 
 - [סליחה](https://slicha.com/)
+
+</div> <!-- end container -->
