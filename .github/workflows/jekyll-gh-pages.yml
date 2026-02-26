@@ -30,6 +30,10 @@ jobs:
         uses: actions/checkout@v4
       - name: Setup Pages
         uses: actions/configure-pages@v5
+      - name: Copy posts folder
+        run: |
+          mkdir -p _posts
+          cp -r posts/* _posts/ 2>/dev/null || true
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:

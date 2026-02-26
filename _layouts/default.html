@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'he' }}" dir="rtl">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    {% if site.description %}
+    <meta name="description" content="{{ site.description | escape }}" />
+    {% endif %}
+    <title>
+      {% if page.title %}
+      {{ page.title | escape }} · {{ site.title | escape }}
+      {% else %}
+      {{ site.title | escape }}
+      {% endif %}
+    </title>
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" />
+  </head>
+  <body class="layout-{{ page.layout | default: 'default' }}">
+    <header class="site-header">
+      <div class="container header-inner">
+        <a class="brand" href="{{ '/' | relative_url }}">
+          <span class="brand-title">{{ site.title }}</span>
+          <span class="brand-tagline">{{ site.description }}</span>
+        </a>
+        <nav class="site-nav" aria-label="ניווט ראשי">
+          <button class="nav-toggle" aria-expanded="false" aria-controls="primary-menu">
+            <span class="nav-toggle-line"></span>
+            <span class="nav-toggle-line"></span>
+            <span class="nav-toggle-line"></span>
+            <span class="sr-only">תפריט</span>
+          </button>
+          <ul id="primary-menu">
+            <li><a href="{{ '/' | relative_url }}">בית</a></li>
+            <li><a href="{{ '/posts/' | relative_url }}">פוסטים</a></li>
+            <li><a href="https://github.com/AnLoMinus/Sorry" target="_blank" rel="noopener">GitHub</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main class="site-main container">
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <div>
+          <h3>{{ site.title }}</h3>
+          <p>{{ site.description }}</p>
+        </div>
+        <div class="footer-meta">
+          <p>© {{ site.time | date: "%Y" }} {{ site.author }}. כל הזכויות שמורות.</p>
+        </div>
+      </div>
+    </footer>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        var toggle = document.querySelector(".nav-toggle");
+        var menu = document.getElementById("primary-menu");
+        if (toggle && menu) {
+          toggle.addEventListener("click", function () {
+            var expanded = this.getAttribute("aria-expanded") === "true";
+            this.setAttribute("aria-expanded", !expanded);
+            menu.classList.toggle("is-open");
+          });
+        }
+      });
+    </script>
+  </body>
+</html>

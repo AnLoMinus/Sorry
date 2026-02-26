@@ -1,4 +1,8 @@
-<link rel="stylesheet" href="/assets/futuristic.css">
+> ⚠️ **הבלוג מעוצב בפורמט GitHub Pages בלבד** – תצוגת ה־README כאן תקינה אך סטנדרטית.  
+> בקר ב‑[https://AnLoMinus.github.io/Sorry/](https://AnLoMinus.github.io/Sorry/) כדי לראות את העיצוב העתידני והקוגניטיבי המלא.
+> 
+> כדי לפרסם פוסט חדש, העלה קובץ Markdown ל־`/posts` (כל קובץ בשם `YYYY-MM-DD-title.md`).  
+> תהליך ההרצה מעתיק אוטומטית את התוכן ל־`_posts` ומבנה את האתר.
 
 <div class="container" dir="rtl">
 <div align="center">

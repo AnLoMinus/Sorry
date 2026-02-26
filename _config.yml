@@ -1,0 +1,21 @@
+title: "Sorry"
+description: "פרויקט לבקשת סליחה רב-לשונית"
+lang: he
+author: "AnLoMinus"
+# url and baseurl left empty for GitHub Pages default
+
+# Collections configuration - keep posts directory for manual upload
+collections:
+  blog:
+    output: true
+    permalink: /:path/:basename/
+
+# Permalinks for posts and pages
+permalink: /:name/
+
+# Markdown processor
+markdown: kramdown
+
+# Use Sass for CSS
+sass:
+  style: compressed

@@ -1,0 +1,125 @@
+---
+# זהו קובץ Sass שנבנה לתוך main.css
+---
+
+@charset "utf-8";
+
+$primary-color: #0ffbdf;
+$accent-color: #ffd700;
+$dark-bg: #0f111a;
+$light-text: #f9fbff;
+
+body {
+  direction: rtl;
+  font-family: "Assistant", "Alef", "Segoe UI", sans-serif;
+  background: linear-gradient(135deg, #0d0d0d 0%, #1a1a2e 100%);
+  color: #e0e0e0;
+  line-height: 1.7;
+}
+
+a {
+  color: $primary-color;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+header.site-header {
+  background: linear-gradient(120deg, $primary-color, $accent-color);
+  color: $dark-bg;
+  padding: 1.6rem 0;
+
+  .site-title {
+    font-size: 2rem;
+    font-weight: 700;
+    margin: 0;
+  }
+
+  .site-description {
+    margin: 0.5rem 0 0;
+    font-size: 1.1rem;
+  }
+}
+
+nav.site-nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 1rem;
+  justify-content: flex-start;
+}
+
+.site-footer {
+  margin-top: 4rem;
+  padding: 2rem 0;
+  background: $dark-bg;
+  color: $light-text;
+  text-align: center;
+}
+
+.post-list {
+  list-style: none;
+  padding: 0;
+
+  li {
+    margin-bottom: 2.5rem;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    padding-bottom: 2rem;
+  }
+}
+
+.post-meta {
+  color: #5c5c5c;
+  font-size: 0.9rem;
+}
+
+.post-content h2,
+.post-content h3,
+.post-content h4 {
+  margin-top: 2rem;
+}
+
+.tag-list {
+  list-style: none;
+  padding: 0;
+
+  > li {
+    margin-bottom: 1.5rem;
+  }
+
+  h3 {
+    color: $primary-color;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+
+    li {
+      margin-bottom: 0.5rem;
+    }
+  }
+}
+
+/* cognitive network background making it subtle */
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url('data:image/svg+xml;utf8,\
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" fill="none" stroke="rgba(0,255,255,0.1)" stroke-width="0.5">\
+<circle cx="25" cy="25" r="2"/>\
+<circle cx="75" cy="75" r="2"/>\
+<line x1="25" y1="25" x2="75" y2="75"/>\
+<circle cx="75" cy="25" r="2"/>\
+<line x1="75" y1="25" x2="25" y2="75"/>\
+</svg>') repeat;
+  opacity: 0.3;
+  z-index: -1;
+}
