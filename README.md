@@ -1,76 +1,76 @@
 <div align="center">
 
-# 🙏🏼 [Sorry](https://github.com/Anlominus/Anlominus/blob/main/Sorry.md) 🙏🏼
+# 🙏🏼 [סליחה](https://github.com/Anlominus/Anlominus/blob/main/Sorry.md) 🙏🏼
 
-### [Sorry God]() | [Sorry Family]() | [Sorry Friends]() | [Sorry Media]() | [Sorry World]() | [Sorry Army]() | [Sorry School]() | [Sorry Work]() | [Sorry Relationship]() | [Sorry I was hurt too]() | [Thanks]() | 
+### [סליחה לאלוהים]() | [סליחה למשפחה]() | [סליחה לחברים]() | [סליחה למדיה]() | [סליחה לעולם]() | [סליחה לצבא]() | [סליחה לבית ספר]() | [סליחה לעבודה]() | [סליחה לקשר]() | [גם אני נפגעתי]() | [תודה]() | 
   
 </div>
 
 ---
-- ## Categories for forgiveness letters
-  - [Sorry God](#sorry-god)
-  - [Sorry Family]()
-  - [Sorry Friends]()
-  - [Sorry Media]()
-  - [Sorry World]()
-  - [Sorry Army]()
-  - [Sorry School]()
-  - [Sorry Work]()
-  - [Sorry Relationship]()
-  - [Sorry I was hurt too]()
-  - [Thanks]()
+- ## קטגוריות של מכתבי בקשה לסליחה
+  - [סליחה לאלוהים](#סליחה-לאלוהים)
+  - [סליחה למשפחה]()
+  - [סליחה לחברים]()
+  - [סליחה למדיה]()
+  - [סליחה לעולם]()
+  - [סליחה לצבא]()
+  - [סליחה לבית ספר]()
+  - [סליחה לעבודה]()
+  - [סליחה לקשר]()
+  - [גם אני נפגעתי]()
+  - [תודה]()
 
 ---
 
-- ### [Sorry God]()
+- ### [סליחה לאלוהים]()
 
 ---
 
-- ### [Sorry Family]()
-  > - ## Sorry dear family 🙏🏼
-  > - Sorry Dad and Mom for all the times I was cheeky and spoke disrespectfully. 🙏🏼
-  > - Sorry family I always get on your nerves. 🙏🏼
-  > - Dear family! Apologizes wholeheartedly. 🙏🏼
-  > - I wish we could continue to be a better, united and cohesive family without nerves and without unnecessary quarrels! 🙏🏼
-  > - Written in the book The Good Life Ltd.! 🙏🏼
-  > - Amen 🙏🏼 
+- ### [סליחה למשפחה]()
+  > - ## סליחה משפחה יקרה 🙏🏼
+  > - מצטער אבא ואמא על כל הפעמים שהיתי חצוף וביטאתי חוסר כבוד. 🙏🏼
+  > - סליחה משפחה שאני תמיד מעצבן אתכם. 🙏🏼
+  > - משפחה יקרה! ממש מצטער מכל הלב. 🙏🏼
+  > - אני מקווה שנוכל להמשיך להיות משפחה טובה יותר, מאוחדת וקוהזיבית ללא עצבנות וללא קטטות מיותרות! 🙏🏼
+  > - כתוב בספר "The Good Life Ltd."! 🙏🏼
+  > - אמן 🙏🏼 
 
 ---
 
-- ### [Sorry Friends]()
+- ### [סליחה לחברים]()
 
 ---
 
-- ### [Sorry Media]()
+- ### [סליחה למדיה]()
 
 ---
 
-- ### [Sorry World]()
+- ### [סליחה לעולם]()
 
 ---
 
-- ### [Sorry Army]()
+- ### [סליחה לצבא]()
 
 ---
 
-- ### [Sorry School]()
+- ### [סליחה לבית ספר]()
 
 ---
 
-- ### [Sorry Work]()
+- ### [סליחה לעבודה]()
 
 ---
 
-- ### [Sorry Relationship]()
+- ### [סליחה לקשר]()
 
 ---
 
-- ### [Sorry I was hurt too]()
+- ### [גם אני נפגעתי]()
 
 ---
 
-- ### [Thanks]()
+- ### [תודה]()
 
 ---
 
-- [Slicha](https://slicha.com/)
+- [סליחה](https://slicha.com/)
