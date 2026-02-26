@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="/assets/futuristic.css">
 
-<div class="container">
+<div class="container" dir="rtl">
 <div align="center">
 
 # 🙏🏼 [סליחה](https://github.com/Anlominus/Anlominus/blob/main/Sorry.md) 🙏🏼
@@ -11,6 +11,9 @@
 
 ---
 - ## קטגוריות של מכתבי בקשה לסליחה
+
+- ## תיקיית פוסטים
+  - מבוסס Markdown: `/posts`
   - [סליחה לאלוהים](#סליחה-לאלוהים)
   - [סליחה למשפחה]()
   - [סליחה לחברים]()
